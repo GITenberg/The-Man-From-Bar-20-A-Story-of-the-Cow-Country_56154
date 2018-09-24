@@ -1,0 +1,34 @@
+_repo: The-Man-From-Bar-20-A-Story-of-the-Cow-Country_56154
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Schoonover, Frank E.
+    alias: Schoonover, Frank Earle
+    birthdate: 1877
+    deathdate: 1972
+    gutenberg_agent_id: '31362'
+    url: http://www.gutenberg.org/2009/agents/31362
+creator:
+  author:
+    agent_name: Mulford, Clarence Edward
+    alias: Mulford, Clarence E.
+    birthdate: 1883
+    deathdate: 1956
+    gutenberg_agent_id: '962'
+    url: http://www.gutenberg.org/2009/agents/962
+    wikipedia: http://en.wikipedia.org/wiki/Clarence_E._Mulford
+description: ''
+gutenberg_issued: '2017-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56154'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Man From Bar 20
+
+  A Story of the Cow Country'
+url: http://www.gutenberg.org/ebooks/56154
